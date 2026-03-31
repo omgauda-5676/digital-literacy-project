@@ -4,7 +4,7 @@ This repository serves as a comprehensive collection of tasks completed for the 
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 1. [Student Information](#-student-information)
 2. [Project Overview](#-project-overview)
 3. [Module Summaries](#-module-summaries)
@@ -13,7 +13,7 @@ This repository serves as a comprehensive collection of tasks completed for the 
 
 ---
 
-## 👤 Student Information
+##  Student Information
 * **Name:** OM PRAKASH GAUDA
 * **Registration No:** 25BCY10201
 * **Branch:** B.Tech Computer Science & Engineering (Specialization in Cybersecurity and Digital Forensics)
@@ -21,12 +21,12 @@ This repository serves as a comprehensive collection of tasks completed for the 
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 The Digital-Literacy project is an academic initiative designed to build a strong foundation in navigating the digital world safely and effectively. It covers everything from essential productivity tools to advanced cybersecurity case studies, ensuring a well-rounded digital education for modern engineering students.
 
 ---
 
-## 📚 Module Summaries
+##  Module Summaries
 
 ### Task 1: Digital Literacy Fundamentals
 This module defines digital literacy as the ability to find, evaluate, and communicate information using technology safely. It introduces essential tools such as Google Docs for collaboration and Canva for visual creation.
@@ -60,9 +60,3 @@ A detailed study of modern threats and prevention strategies specifically for st
 * **Task 4:** [Social Media Responsibility Checklist](./task-4-email-etiquette/Social%20media%20checklist.md)
 * **Task 5:** [UPI Scam Case Study & Prevention](./task-5-cybercrime/Casestudy.md)
 
----
-
-## 🚨 Cybercrime Reporting
-If you or someone you know has been a victim of cybercrime, use the following official channels:
-* **National Cyber Crime Reporting Portal:** [https://cybercrime.gov.in](https://cybercrime.gov.in)
-* **National Toll-Free Helpline:** **1930** (Available 24/7)
