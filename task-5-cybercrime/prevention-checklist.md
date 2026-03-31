@@ -15,7 +15,6 @@ As students navigating a digital-first academic environment, our online safety i
 7. **Social Media Privacy:** Set your personal Instagram and Facebook profiles to "Private." Avoid sharing photos of your **College ID card** or **Hall Ticket**, as these contain sensitive data like your registration number and DOB.
 8. **Think Before You Click:** Be skeptical of "Urgent" emails or SMS alerts claiming your bank account or SIM card will be blocked. These are phishing attempts designed to create panic.
 
----
 
 ##  How to Report Cybercrime
 If you or someone you know has been a victim of cybercrime, immediate reporting is the best way to freeze fraudulent transactions and seek justice.
