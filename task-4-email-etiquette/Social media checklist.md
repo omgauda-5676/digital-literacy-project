@@ -1,8 +1,6 @@
 # Social Media Do's and Don'ts for College Students
 
-
-##  The "Do's" (Best Practices)
-
+##  The "Do's" 
 * **Maintain a Professional Identity:** Use a high-resolution, professional profile picture. Ensure your bio clearly states your affiliation with VIT Bhopal and your interest in Cybersecurity.
 * **Document Your Technical Journey:** Share updates on your Python projects, progress toward **GSoC 2027**, or insights from your Digital Logic and Computer Architecture courses.
 * **Network with Purpose:** Follow industry leaders and open-source contributors. Engaging thoughtfully with their content can lead to mentorship and internship opportunities.
@@ -11,8 +9,7 @@
 
 ---
 
-##  The "Don'ts" (Common Pitfalls)
-
+##  The "Don'ts" 
 * **Don't Breach Personal OPSEC:** Never post photos of your University ID, hall tickets, hostel room numbers, or any QR codes. Protecting sensitive data is your primary responsibility.
 * **Don't Engage in Digital Toxicity:** Avoid online arguments, trolling, or unprofessional comments. Background checks by recruiters can uncover these even years later.
 * **Don't Publicly Critique the Institution:** Avoid airing grievances about professors, exams, or campus policies on public platforms. Maintain a professional level of discretion at all times.
