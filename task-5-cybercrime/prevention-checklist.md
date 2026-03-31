@@ -23,6 +23,5 @@ If you or someone you know has been a victim of cybercrime, immediate reporting 
 * **National Cyber Crime Reporting Portal:** [https://cybercrime.gov.in](https://cybercrime.gov.in)
 * **National Toll-Free Helpline:** **1930** (Available 24/7)
 
-> **Pro-Tip:** If you lose money in a UPI/Bank scam, call **1930 within the "Golden Hour"** (the first hour after the fraud) to increase the chances of the police freezing the money in the fraudster's account.
 
 ---
