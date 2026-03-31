@@ -33,8 +33,4 @@ Honestly? **Us.** Students who are active on marketplaces, looking for internshi
 
 ---
 
-## 💡 My Golden Rule for the Hostel/Campus
-> **"UPI PIN is for SENDING, not RECEIVING."**
-> If someone tells you to enter your PIN to get paid, they are lying to you. Period.
 
----
