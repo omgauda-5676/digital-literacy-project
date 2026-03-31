@@ -1,4 +1,4 @@
-# Social Media Do's and Don'ts for College Students
+# Social Media Checklist for College Students
 
 ##  The "Do's" 
 * **Maintain a Professional Identity:** Use a high-resolution, professional profile picture. Ensure your bio clearly states your affiliation with VIT Bhopal and your interest in Cybersecurity.
