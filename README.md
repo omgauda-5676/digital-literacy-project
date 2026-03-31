@@ -57,7 +57,7 @@ A detailed study of modern threats and prevention strategies specifically for st
 * **Task 1:** [Digital Literacy Presentation Guide](./task-1-presentation/task-1-presentation.png)
 * **Task 2:** [GitHub Profile Portfolio](./task-2-portfolio/task-2-Github-portfolio.png)
 * **Task 3:** [Digital Literacy Quiz Response Sheet](./task-3-platforms/Response%20Sheet.png)
-* **Task 3:** [Digital Literacy Quiz Response Sheet link : https://docs.google.com/forms/d/e/1FAIpQLSf7U_zSIf5pdy8RmC96La32wrVITHU1bEE0l6GcDEv8_aBWcg/viewform?usp=header)            
+* **Task 3:** [Digital Literacy Quiz link : https://docs.google.com/forms/d/e/1FAIpQLSf7U_zSIf5pdy8RmC96La32wrVITHU1bEE0l6GcDEv8_aBWcg/viewform?usp=header)         
 * **Task 4:** [Social Media Responsibility Checklist](./task-4-email-etiquette/Social%20media%20checklist.md)
 * **Task 5:** [UPI Scam Case Study & Prevention](./task-5-cybercrime/Casestudy.md)
 
